@@ -78,7 +78,7 @@ optional = true
 [tool.poetry.group.tests.dependencies]
 pytest = "^8.1.1"
 pytest-cov = "^4.1.0"
-tox = "^4.14.1"
+tox = "^4.14.2"
 tox-gh-actions = "^3.2.0"
 
 
