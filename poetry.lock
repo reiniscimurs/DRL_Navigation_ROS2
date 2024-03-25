@@ -144,12 +144,12 @@ files = [
 
 [[package]]
 name = "empy"
-version = "4.0.1"
+version = "4.1"
 description = "A templating system for Python."
 optional = false
-python-versions = "*"
+python-versions = ">=2.3"
 files = [
-    {file = "empy-4.0.1.tar.gz", hash = "sha256:623237b98cd643be5e20bad6275cc933ffe7cf76452392f1d326d7672c2abd64"},
+    {file = "empy-4.1.tar.gz", hash = "sha256:9d712e97c1395859be13d2b45788c9186cd97f1c04dac510399130f328643367"},
 ]
 
 [[package]]
@@ -635,4 +635,4 @@ test = ["covdefaults (>=2.3)", "coverage (>=7.2.7)", "coverage-enable-subprocess
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8.1"
-content-hash = "d4a4d739c0830111d27dc4f9a237f291f49deac750921f4063765792c8744d8a"
+content-hash = "9e080cd95ac60d5bec6df2ce54d46075c55f53d208cd10d6e54995a6848d6ff0"
